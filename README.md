@@ -1,4 +1,4 @@
-# Oculus Mobile SDK (mirror)
+# Oculus PC SDK (mirror)
 
 This is a Git mirror of Oculus' 
 [PC/Windows SDK](https://developer.oculus.com/downloads/package/oculus-sdk-for-windows/), 
@@ -6,7 +6,7 @@ provided so that it can be git submodule'd into other projects.
 
 You must still agree to Oculus' licensing terms to use it.
 
-## Oculus PC SDK
+## Overview
 
 The Oculus PC SDK lets you build VR experiences for the Oculus RIft S and Oculus Rift in C++. For more information, see our [PC SDK Developer Guide](https://developer.oculus.com/documentation/native/pc/).
 ## Version history
